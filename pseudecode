@@ -1,0 +1,3 @@
+Untuk setiap angka i dari 0 hingga 50 (termasuk):
+    Jika i habis dibagi 2 (i % 2 == 0):
+        Cetak i
